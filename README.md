@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://github.com/Dicky-04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dicky+%F0%9F%91%8B;Web+%26+IoT+Developer;Graphic+Design%2C+Photo+%26+Video" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dicky+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 <br/>
 <p>
