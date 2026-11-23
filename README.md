@@ -72,6 +72,5 @@
 
 </div>
 
-
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7DD3FC,50:38BDF8,100:0284C7&section=footer&reversal=true" width="100%" alt="footer" />
